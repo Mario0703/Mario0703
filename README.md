@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mario0703
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Pygame
+- 🌱 I’m currently learning Pygame and discord py
 - 📫 How to reach me mario@supermario.dk
 
 <!---
