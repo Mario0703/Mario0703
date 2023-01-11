@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mario0703
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Pygame and discord py
+- 👀 I’m interested in WEBDEV
+- 🌱 I’m currently learning HTML, CSS JS
 - 📫 How to reach me mario@supermario.dk
 
 <!---
